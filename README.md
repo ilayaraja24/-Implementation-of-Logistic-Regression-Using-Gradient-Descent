@@ -67,8 +67,8 @@ for i,j,in enumerate(np.unique(Y_Set)):
 ```
 
 ## Output:
-![GITHUB LOGO]()
-![GITHUB LOGO]()
+![GITHUB LOGO](output1.png)
+![GITHUB LOGO](output2.png)
 
 
 ## Result:
